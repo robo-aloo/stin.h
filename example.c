@@ -14,7 +14,7 @@ int main() {
     str_in(city);
 
     // 3. Print the results (the newline is already removed!)
-    printf(----Profile----);
+    printf("----Profile----");
     printf("Name: %s\n", name);
     printf("City: %s\n", city);
 
